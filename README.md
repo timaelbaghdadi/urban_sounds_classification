@@ -16,13 +16,13 @@ are done. The code1 implemented is made available in a Github
 repository. As previously explained, The Urban Sound Dataset
 has 10 different classes and are labeled (in the metadata files)
 as:
- 0 = air conditioner
- 1 = car horn
- 2 = children playing
- 3 = dog bark
- 4 = drilling
- 5 = engine idling
- 6 = gun shot
- 7 = jackhammer
- 8 = siren
- 9 = street music
+ 0 = air conditioner
+ 1 = car horn
+ 2 = children playing
+ 3 = dog bark
+ 4 = drilling
+ 5 = engine idling
+ 6 = gun shot
+ 7 = jackhammer
+ 8 = siren
+ 9 = street music
